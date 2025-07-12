@@ -1,0 +1,104 @@
+{
+  "skus": [
+    {
+      "id": "SKU001",
+      "name": "Organic Bananas",
+      "category": "Produce",
+      "base_price": 2.99,
+      "description": "Fresh organic bananas, perfect for smoothies and snacks",
+      "supplier": "Tropical Farms Inc.",
+      "lead_time_days": 3,
+      "min_order_quantity": 50
+    },
+    {
+      "id": "SKU002",
+      "name": "Premium Ground Beef",
+      "category": "Meat",
+      "base_price": 8.99,
+      "description": "80/20 ground beef, perfect for burgers and tacos",
+      "supplier": "Quality Meats Co.",
+      "lead_time_days": 2,
+      "min_order_quantity": 25
+    },
+    {
+      "id": "SKU003",
+      "name": "Whole Milk 1L",
+      "category": "Dairy",
+      "base_price": 3.49,
+      "description": "Fresh whole milk, locally sourced",
+      "supplier": "Dairy Fresh Farms",
+      "lead_time_days": 1,
+      "min_order_quantity": 100
+    },
+    {
+      "id": "SKU004",
+      "name": "Fresh Eggs 12ct",
+      "category": "Dairy",
+      "base_price": 4.99,
+      "description": "Farm fresh eggs, cage-free",
+      "supplier": "Happy Hen Farms",
+      "lead_time_days": 2,
+      "min_order_quantity": 75
+    },
+    {
+      "id": "SKU005",
+      "name": "Organic Avocados",
+      "category": "Produce",
+      "base_price": 1.99,
+      "description": "Ripe organic avocados, perfect for guacamole",
+      "supplier": "Avocado Grove Co.",
+      "lead_time_days": 4,
+      "min_order_quantity": 40
+    },
+    {
+      "id": "SKU006",
+      "name": "Chicken Breast",
+      "category": "Meat",
+      "base_price": 6.99,
+      "description": "Boneless, skinless chicken breast",
+      "supplier": "Poultry Plus Inc.",
+      "lead_time_days": 2,
+      "min_order_quantity": 30
+    },
+    {
+      "id": "SKU007",
+      "name": "Greek Yogurt",
+      "category": "Dairy",
+      "base_price": 5.49,
+      "description": "Creamy Greek yogurt, high protein",
+      "supplier": "Yogurt Delights",
+      "lead_time_days": 3,
+      "min_order_quantity": 60
+    },
+    {
+      "id": "SKU008",
+      "name": "Fresh Spinach",
+      "category": "Produce",
+      "base_price": 2.49,
+      "description": "Organic baby spinach, pre-washed",
+      "supplier": "Green Leaf Farms",
+      "lead_time_days": 2,
+      "min_order_quantity": 35
+    },
+    {
+      "id": "SKU009",
+      "name": "Salmon Fillets",
+      "category": "Seafood",
+      "base_price": 12.99,
+      "description": "Wild-caught salmon fillets, sustainable",
+      "supplier": "Ocean Fresh Seafood",
+      "lead_time_days": 5,
+      "min_order_quantity": 20
+    },
+    {
+      "id": "SKU010",
+      "name": "Cherry Tomatoes",
+      "category": "Produce",
+      "base_price": 3.99,
+      "description": "Sweet cherry tomatoes, perfect for salads",
+      "supplier": "Tomato Harvest Co.",
+      "lead_time_days": 3,
+      "min_order_quantity": 45
+    }
+  ]
+} 
